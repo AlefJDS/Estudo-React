@@ -26,7 +26,7 @@ return (
 
        <p>👉 jane.design/doctorcare</p>
 
-       <p> #novoprojeto #nlw #rocketseat aaaaaaa</p>
+       <p> #novoprojeto #nlw #rocketseat </p>
 
     </div>
 
